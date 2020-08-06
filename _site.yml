@@ -1,0 +1,9 @@
+name:"Mentor:Mentee Resourse Site"
+navbar: 
+  titel: "Mentor Mentee Resourse Site"
+  left: 
+    - text: "Home"
+      href: index.Rmd
+    - text: "Resources"
+      href: restable.Rmd
+      
