@@ -1,3 +1,3 @@
 # prototype
 
-sl4269.github.io/prototype.github.io
+[site](sl4269.github.io/prototype.github.io)
