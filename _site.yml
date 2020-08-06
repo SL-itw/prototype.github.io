@@ -25,4 +25,8 @@ navbar:
         #  href: page-d.html
       
 output:
-  rmdformats::material
+  prettydoc::html_pretty:
+    theme: cayman
+    include:
+      after_body: footer.html
+      
