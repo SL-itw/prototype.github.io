@@ -3,11 +3,10 @@ output: rmdformats::material
 ---
 
 
-
 ![](mentorship.png)
 <center>
 
-## Advocating diversity, equity and belonging in STEM
+## Fostering diversity, equity and belonging in STEM
 
 <center>
 
@@ -18,6 +17,7 @@ The proposed project aims to develop and test an online platform that will help 
 ----------------------
 
 # Seeking Mentorship?
+### Careers In Biomedical Research
 <a 
 
 href=restable.html>Find A Menotor

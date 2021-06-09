@@ -12,19 +12,19 @@ FILESDIR = $(FILE)_files
 
 all : default
 
-default :
+default : 
 	Rscript \
 	   -e "library(rmarkdown)"  \
 	   -e "library(rmdformats)"  \
 	   -e "render('$(RMDFILE)')"
 
-html :
+html : 
 	Rscript \
 	   -e "library(rmarkdown)"  \
 	   -e "library(rmdformats)"  \
-	   -e "render('$(RMDFILE)', 'rmdformats::material')"
+	   -e "render('$(RMDFILE)', 'rmdformats::readthedown')"
 
-pdf :
+pdf : 
 	Rscript \
 	   -e "library(rmarkdown)" \
            -e "render('$(RMDFILE)', 'pdf_document')"
@@ -35,4 +35,6 @@ clean :
 	if [ -e $(MDFILE) ]; then rm $(MDFILE); fi
 	if [ -e $(PDFFILE) ]; then rm $(PDFFILE); fi
 	if [ -e $(HTMLFILE) ]; then rm $(HTMLFILE); fi
-	if [ -e $(TEXFILE) ]; then rm $(TEXFILE); fi
+	if [ -e $(TEXFILE) ]; then rm $(TEXFILE); fi		
+
+

@@ -1,7 +1,28 @@
 ---
-title: "restable.Rmd"
-author: "Steven Lawrence"
-date: "8/6/2020"
-output: html_document
+output: rmdformats::material
 ---
 
+![](mentorship.png)
+
+-------------------------
+# NIH Grant Resources
+- [Administrative Supplements](https://grants.nih.gov/grants/administrative-supplements.htm)
+- [Administrative Supplements](https://grants.nih.gov/grants/administrative-supplements.htm)
+- [Administrative Supplements](https://grants.nih.gov/grants/administrative-supplements.htm)
+- [Administrative Supplements](https://grants.nih.gov/grants/administrative-supplements.htm)
+
+# NIH Mentoring resources 
+- [Administrative Supplements](https://grants.nih.gov/grants/administrative-supplements.htm)
+- [Administrative Supplements](https://grants.nih.gov/grants/administrative-supplements.htm)
+- [Administrative Supplements](https://grants.nih.gov/grants/administrative-supplements.htm)
+- [Administrative Supplements](https://grants.nih.gov/grants/administrative-supplements.htm)
+
+
+# NIH Mentee Resoruces
+- [Administrative Supplements](https://grants.nih.gov/grants/administrative-supplements.htm)
+- [Administrative Supplements](https://grants.nih.gov/grants/administrative-supplements.htm)
+- [Administrative Supplements](https://grants.nih.gov/grants/administrative-supplements.htm)
+- [Administrative Supplements](https://grants.nih.gov/grants/administrative-supplements.htm)
+
+
+#

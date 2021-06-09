@@ -4,3 +4,6 @@
 #how to center things
 #https://stackoverflow.com/questions/24677642/centering-image-and-text-in-r-markdown-for-a-pdf-report
 
+# how to custom html templates with lists
+# https://getbootstrap.com/docs/4.0/content/typography/#lists
+

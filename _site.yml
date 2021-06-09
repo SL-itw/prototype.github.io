@@ -1,32 +1,27 @@
-name: "Mentor Mentee Resourse Site"
+name: "Mentor-Mentee P.A.I.R.E.D. Platform"
 output_dir: "."
 navbar: 
-  title: "Mentor Mentee Resourse Site"
+  title: "Mentor-Mentee P.A.I.R.E.D. Platform"
+  subtitle: "A Digital Platform to Promote Diversity and Inclusion in the Biomedical Research Workforce "
   right: 
     - text: "Home"
-      href: index.html
+      href: changes_to.html
     - text: "Resources"
       href: restable.html
-    - icon: fa-github fa-lg
-      href: http://github.com/sl4269/
+    - text: "FAQ"
+      href: restable.html
     - text: "More"
       icon: fa-gear
       menu:
-        - text: "Heading 1"
-        - text: "Page A"
+        - text: "Mentor Resources"
+        - text: "Grant Writing"
          # href: page-a.html
         - text: "Page B"
        #   href: page-b.html
         - text: "---------"
-        - text: "Heading 2"
-        - text: "Page C"
+        - text: "Mentee Resorces"
+        - text: "FAQ"
        #   href: page-c.html
         - text: "Page D"
         #  href: page-d.html
-      
-output:
-  prettydoc::html_pretty:
-    theme: cayman
-    include:
-      after_body: footer.html
       
